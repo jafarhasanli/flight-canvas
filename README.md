@@ -14,6 +14,14 @@ This project demonstrates animation, keyboard input handling, object movement us
 
 ---
 
+## 🎮 Play the Game Online
+
+You can play the game directly in your browser without downloading anything:
+
+👉 **[Click here to play](https://jafarhasanli.github.io/flight-canvas/)**
+
+---
+
 ## Features
 
 - Plane movement using keyboard controls
